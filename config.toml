@@ -1,6 +1,6 @@
 baseurl = "http://MindviewLLC.com"
 languageCode = "en-us"
-title = "MindView LLC: Exceptional Learning Experiences"
+title = "MindView Exceptional Learning Experiences"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -26,11 +26,11 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "indigo"
+    	primary = "green"
     	accent  = "red"
-    	header_color = "#174B7F"
-    	footer_color = "#174B7F"
-    	h1_ruler_color= "#174B7F"
+    	header_color = "#6C952C"
+    	footer_color = "#6C952C"
+    	h1_ruler_color= "green"
 
     [params.font]
     	text = "Ubuntu"
