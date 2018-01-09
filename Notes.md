@@ -1,16 +1,8 @@
-- Consider using https://groups.io/
+Travel/speaking ideas from https://charleseisenstein.net/events/#invite
 
 
------------------------------------------------------------
-Removed:
-<a href="mailto:mindviewinc@gmail.com?subject=Twist%20request:%20Software%20Architecture%20Forum&body=Please%20add%20me%20to%20https://twistapp.com/a/23564/people/u">Click here to generate a join request</a> for the Twist group. (You might need to right click on this link and
- select "Open Link With..." and then choose your email service on the resulting submenu).
+To Europe: Business class travel on British Airways or Lufthansa, which I know is expensive, but that's what gets me on the plane. And expenses, so that the trip doesn't cost me anything. But I don't ask for a stipend.
 
-You'll get an invitation to join the Twist group.
+If possible, extra-curricular visits to companies, business incubators, hacker spaces, other places of interest.  I also enjoy speaking at user group meetings.
 
-The "free time" slots can be used for skiing, and allow you to purchase
-a 1/2 day afternoon pass. You may also organize alternative activities
-during the mid-day break. Skiing is completely optional, and is your
-responsibility, although groups are likely to form. See
-[www.skicb.com](http://www.skicb.com/) for more information.
-
+I would be happy to stay in someone's guest room rather than a hotel, if that will help save money.
