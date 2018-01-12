@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MindView
 type: index
 weight: 10
 ---
@@ -26,7 +26,7 @@ Thinking in C Multimedia Seminar</a>
 
 + <a href="http://www.atomicscala.com/" target="_blank">Atomic Scala</a>
 
-+ <a href="http://BruceEckel.github.io/" target="_blank">Blog</a>
++ <a href="http://blog.BruceEckel.com/" target="_blank">Blog</a>
 
 + <a href="http://www.Reinventing-Business.com" target="_blank">
 Reinventing Business</a>

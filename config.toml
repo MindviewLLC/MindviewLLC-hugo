@@ -43,7 +43,7 @@ googleAnalytics = ""
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-	name   = "Home"
+	name   = "MindView"
 	url    = "/"
 	weight = 10
 
