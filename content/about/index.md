@@ -3,7 +3,7 @@ title: About
 weight: 200
 ---
 
-Questions? Email Mindview LLC <mindviewinc@gmail.com>
+Questions? Email Mindview <mindviewinc@gmail.com>
 
 - Site built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
