@@ -7,11 +7,7 @@ exclude = [
     ".git",
     ".gitkeep",
     "CNAME",
-    "404.html",
     "README.md",
-    "css",
-    "images",
-    "js",
 ]
 
 target = Path.cwd().parent / "mindviewllc.github.io"
@@ -24,15 +20,12 @@ for item in target.iterdir():
     if item.name in exclude:
         continue
     print("removing {}".format(item.name))
-    # if item.is_file():
-    #     item.unlink()
-    # elif item.is_dir():
-    #     shutil.rmtree(item)
-    # else:
-    #     unknown(item)
-
-print("end of test")
-sys.exit()
+    if item.is_file():
+        item.unlink()
+    elif item.is_dir():
+        shutil.rmtree(item)
+    else:
+        unknown(item)
 
 for src in (Path.cwd() / "public").iterdir():
     print("copying {}".format(src.name))
@@ -43,7 +36,12 @@ for src in (Path.cwd() / "public").iterdir():
     else:
         unknown(src)
 
-CNAME = Path.cwd() / "CNAME"
-if CNAME.exists():
-    print("copying CNAME")
-    shutil.copy(CNAME, target)
+print(Path.cwd() / "404")
+print(target/ "404")
+shutil.copytree(Path.cwd() / "404", target / "404")
+shutil.copy((Path.cwd() / "404.html"), target)
+
+# CNAME = Path.cwd() / "CNAME"
+# if CNAME.exists():
+#     print("copying CNAME")
+#     shutil.copy(CNAME, target)
