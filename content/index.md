@@ -1,29 +1,35 @@
 ---
-title: Overview
+title: Home
 type: index
 weight: 10
 ---
 
-<span style="font-size:150%">Organized by Bruce Eckel<br/>
-Sept 25-29, 2017, Crested Butte, Colorado</span><br/>
+## This site is under construction
 
-- Attendance limited to 40
-- Price: $750
-- If you've previously attended any of the Crested
-Butte events and need a break on the fee,
-<a href="https://softwarearchitectureforum.github.io/contact/">make a
-request</a>. Don't let the fee be the reason you can't attend.
+In the meantime, here are some links you might be looking for. If you don't
+see what you need,
+<a href="mailto:mindviewinc@gmail.com?Subject=Mindview%20site%20query"
+  target="_blank">send us a note</a>.
 
-***
++ <a href="http://www.OnJava8.com" target="_blank">On Java 8</a>
 
-- *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks
++ <a href="https://github.com/BruceEckel/OnJava8-Examples" target="_blank">On Java 8 Example Code</a>
 
-- *I'm still stunned by how impactful WTF is ... each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt, Mozilla
++ <a href="http://www.WinterTechForum.com" target="_blank">
+The Winter Tech Forum Conference</a>
 
-- *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
++ <a href="https://github.com/BruceEckel/TIJ4-code" target="_blank">
+Thinking in Java 4th Edition Code</a>
 
-- *In my experience, the open-spaces forums that Bruce has facilitated have been a great source of new ideas, new friends in the tech world, and a fresh source of inspiration and energy I could apply to my regular work.* -- Joel Neely
++ <a href="https://archive.org/details/ThinkingInC" target="_blank">
+Thinking in C Multimedia Seminar</a>
 
-- Dianne Marsh's [Summary of the 2016 WTF](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/)
++ <a href="http://www.atomicscala.com/" target="_blank">Atomic Scala</a>
 
-- Chris Hartjes on his [First WTF Experience](https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/).
++ <a href="http://BruceEckel.github.io/" target="_blank">Blog</a>
+
++ <a href="http://www.Reinventing-Business.com" target="_blank">
+Reinventing Business</a>
+
++ <a href="http://www.SoftwareArchitectureForum.com" target="_blank">
+The Software Architecture Forum Conference</a>

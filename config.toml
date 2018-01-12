@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
 	# General information
 	# author = "Bruce Eckel"
-	description = "A Self-Organizing Open Spaces Conference."
+	description = "MindView LLC: Exceptional Learning Experiences."
 
 	logo = "/images/mindview-circle.png"
 	favicon = "images/favicon.ico"
@@ -38,74 +38,19 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "SoftwareArchitectureForum/SoftwareArchitectureForum-hugo"
+	#twitter = ""
+	#github  = "SoftwareArchitectureForum/SoftwareArchitectureForum-hugo"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-	name   = "Overview"
+	name   = "Home"
 	url    = "/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Conference Theme"
-	url    = "conference-theme/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Open Spaces"
-	url    = "open-spaces/"
-	weight = 30
-
-[[menu.main]]
-	name   = "Schedule"
-	url    = "schedule/"
-	weight = 40
-
-[[menu.main]]
-	name   = "Lightning Talks"
-	url    = "lightning/"
-	weight = 42
-
-[[menu.main]]
-	name   = "Hackathon"
-	url    = "hackathon/"
-	weight = 43
-
-[[menu.main]]
-	name   = "Afternoon Activities"
-	url    = "afternoon/"
-	weight = 47
-
-[[menu.main]]
-	name   = "Location"
-	url    = "location/"
-	weight = 50
-
-[[menu.main]]
-	name   = "Travel"
-	url    = "travel/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Lodging"
-	url    = "lodging/"
-	weight = 70
-
-[[menu.main]]
-	name   = "Altitude"
-	url    = "altitude/"
-	weight = 80
-
-[[menu.main]]
-	name   = "Registration"
-	url    = "registration/"
-	weight = 90
-
-[[menu.main]]
-	name   = "Contact"
-	url    = "contact/"
-	weight = 100
+	name   = "About"
+	url    = "about/"
+	weight = 200
 
 
 [blackfriday]
