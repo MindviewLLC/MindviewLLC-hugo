@@ -43,9 +43,14 @@ googleAnalytics = ""
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-	name   = "MindView"
-	url    = "/"
-	weight = 10
+  name   = "MindView"
+  url    = "mindview/"
+  weight = 10
+
+[[menu.main]]
+	name   = "Quick Links"
+	url    = "quicklinks/"
+	weight = 20
 
 [[menu.main]]
 	name   = "About"
