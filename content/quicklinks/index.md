@@ -36,14 +36,17 @@ On Java 8 Example Code</a>
 + <a href="https://gum.co/HandsOnJava" target="_blank">
 Hands-On Java 2nd Ed. Seminar (Slides + Audio)</a>
 
-+ <a href="https://gum.co/TiJ4" target="_blank">
-Thinking in Java 4th Edition PDF & HTML ebook</a>
++ <a href="https://archive.org/details/TIJ4CcR1" target="_blank">
+Thinking in Java 4th Edition Creative Commons PDF eBook</a>
 
 + <a href="https://github.com/BruceEckel/TIJ4-code" target="_blank">
 Thinking in Java 4th Edition Example Code</a>
 
 + <a href="https://gum.co/mvcKV" target="_blank">
 Thinking in Java 4th Edition Annotated Solution Guide</a>
+
++ <a href="https://archive.org/details/ThinkingInC" target="_blank">
+Thinking in C Multimedia Seminar</a> (Prepares beginners for Java).
 
 ***
 ### Scala
@@ -63,7 +66,7 @@ Thinking in C++ 2nd ed, Volume 2 Book (HTML) and Example Code</a>
 Thinking in C++ 2nd ed, Volume 1 Annotated Solution Guide</a>
 
 + <a href="https://archive.org/details/ThinkingInC" target="_blank">
-Thinking in C Multimedia Seminar</a>
+Thinking in C Multimedia Seminar</a> (Prepares beginners for C++).
 
 ***
 ### Written About But Never Created
