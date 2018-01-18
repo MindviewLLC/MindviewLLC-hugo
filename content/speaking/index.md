@@ -10,8 +10,8 @@ I like to add speaking into the mix whenever I can.
 Because I live in the mountains, about 4.5 hours from the Denver airport,
 travel is a significant investment for me, and this limits the number of trips
 I can make (presentation preparation is also a factor). Also, once I'm
-traveling (see the Event List), it's easier to add more stops than to go home
-and make a new trip.
+traveling (see the [Event List](/events)), it's easier to add more stops than
+to go home and make a new trip.
 
 Enthusiasm is key -- if your group is enthusiastic, that energy goes a long way
 in making the trip go smoothly and effortlessly. I love to be where I am really
@@ -39,9 +39,9 @@ I ask that all my travel expenses are covered. This includes:
 1. Driving from Crested Butte to Denver and back (500 miles at the standard US
 IRS rate of 54.5 cents per mile = $273).
 
-2. The hotel the night before domestic flights and the night after
-international flights, which includes the cost of parking during the trip. This
-is usually in the range of $200-$300.
+2. The Denver Airport hotel the night before domestic flights and the night
+after international flights, which includes the cost of parking during the
+trip. This is usually in the range of $200-$300.
 
 3. Incidental travel expenses like trains, cabs and visa fees.
 
@@ -50,12 +50,12 @@ is usually in the range of $200-$300.
 # Domestic Travel (within the continental U.S.)
 
 I don't love to fly (and only fly on jetliners; no smaller planes), so I try my
-best to get nonstop flights. Fortunately, Southwest has a hub in Denver which
-produces nonstop flights to almost everywhere, and they are also quite
-inexpensive. On occasion, other airlines are required, and in that case I ask
-for the fewest number of segments on the largest possible jets.
+best to get nonstop flights. Fortunately, Southwest Airlines has a hub in
+Denver which produces nonstop flights to almost everywhere, and they are also
+quite inexpensive. On occasion, other airlines are required, and in that case I
+ask for the fewest number of segments on the largest possible jets.
 
-If you're in Colorado (where I live), Utah or New Mexico it's often just as easy
+If you're in Colorado, Utah or New Mexico it's often just as easy
 for me to drive.
 
 # International Travel
@@ -74,9 +74,6 @@ completely sympathize. I know it is expensive, but being able to sleep in
 comfort is what motivates me onto the plane in the first place. For community
 conferences that are paying my expenses, however, I only ask for expenses and
 don't ask for a stipend.
-
-# Topics
-
 
 # Inquiries
 
