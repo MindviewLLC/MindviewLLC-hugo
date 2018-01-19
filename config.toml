@@ -13,7 +13,7 @@ googleAnalytics = ""
 	description = "MindView LLC: Exceptional Learning Experiences."
 
 	logo = "/images/mindview-circle.png"
-	favicon = "images/favicon.ico"
+	favicon = "images/favicon.png"
 	banner_image = "/images/MindviewBanner.png"
 
 	permalink = "#"
