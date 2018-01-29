@@ -3,6 +3,8 @@ title: About
 weight: 200
 ---
 
+## [This Interview](https://www.blog.pythonlibrary.org/2017/11/06/pydev-of-the-week-bruce-eckel/) contains a lot of historical information about me.
+
 Questions? Email Mindview <mindviewinc@gmail.com>
 
 + Site built with
