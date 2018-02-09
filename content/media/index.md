@@ -11,3 +11,6 @@ weight: 50
 - November 2017 VJug24 Keynote: [Overview of Kotlin for Java Programmers](https://virtualjug.com/vjug24-keynote-an-overview-of-kotlin-for-java-programmers/)
 
 - November 2017 [PyDev of the week](https://www.blog.pythonlibrary.org/2017/11/06/pydev-of-the-week-bruce-eckel/)
+
+- June 2003 [Interview](http://edn.embarcadero.com/article/30139). (A long time
+ago; I'm just posting these as I find them).

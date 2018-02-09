@@ -5,54 +5,29 @@ runs small conferences and provides public and private training and consulting
 in programming languages and software system design. Details can be found at
 [www.MindViewLLC.com](http://www.MindViewLLC.com).
 
-## Books
+* [Bibliography]
 
-Bruce Eckel is the author of:
-
-- [Atomic Kotlin](www.AtomicKotlin.com) (In development), Mindview 2018.
-
-- [On Java 8](www.OnJava8.com), Mindview 2017.
-
-- *[Atomic Scala](www.AtomicScala.com)* Mindview 2011, with Dianne Marsh.
-  2nd Edition 2014 (????)
-
-- *First Steps in Flex*, MindView 2008, with James Ward.
-
-- *Thinking in Java*, Prentice-Hall 1998, 2nd edition 2000, 3rd Edition, 2003,
-  4th Edition, 2006.
-
-- *Hands-On Java eSeminar*, [MindViewLLC](http://www.MindViewLLC.com) 2004 (????).
-
-- *Thinking in C++*, Prentice-Hall 1995; 2nd edition 2000, Volume 2 with Chuck
-   Allison, 2003.
-
-- *C++ Inside & Out*, Osborne/McGraw- Hill 1993.
-
-- *Using C++*, Osborne/McGraw- Hill 1989.
-
-- *Computer Interfacing with Pascal & C*,  ????
-
-- *Black Belt C++* (Editor) M&T/Holt 1994.
 
 ## Short Bio:
 
 Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) is the author
-of XXX books, has given hundreds of presentations throughout the world,
-published over 150 articles in numerous magazines, was a founding member of
-the ANSI/ISO C++ committee and speaks regularly at conferences. He was for
-many years the chair of both the C++ and Java tracks at the Software
-Development conference, was cofounder of the JavaPosse Roundup Conference (now
-the [Winter Tech Forum](http://www.WinterTechForum.com)) and creator of the
-[Software Architecture Forum](http://softwarearchitectureforum.com). He
-periodically holds Developer Retreats and provides public and private training
-and consulting in programming languages and software system design.
+of XXX books (see [Bibliography]), has given hundreds of presentations
+throughout the world, published over 150 articles in numerous magazines, was a
+founding member of the ANSI/ISO C++ committee and speaks regularly at
+conferences. He was for many years the chair of both the C++ and Java tracks at
+the Software Development conference, was cofounder of the JavaPosse Roundup
+Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
+creator of the [Software Architecture
+Forum](http://softwarearchitectureforum.com). He periodically holds Developer
+Retreats and provides public and private training and consulting in programming
+languages and software system design.
 
 ## Long Bio:
 
-Since 1986, Bruce Eckel
-([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published over 150
-computer articles and XXX books, four of which were on C++, and given
-hundreds of lectures and seminars throughout the world.
+Since 1986, Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has
+published over 150 computer articles and XXX books (see [Bibliography]), four
+of which were on C++, and given hundreds of lectures and seminars throughout
+the world.
 
 He was a founding member of the ANSI/ISO C++ committee. He speaks
 regularly at conferences and was for many years the chair of both the
@@ -114,7 +89,7 @@ Two magazine covers from the past.
 
 ## AV Requirements:
 
-I givea presentations from my notebook computer (a Dell Windows 10 Machine
+I give presentations from my notebook computer (a Dell Windows 10 Machine
 with HDMI connector), so unless otherwise specified you should provide a
 computer projection system that will handle at least Super VGA output of
 **1024 x 768**. If the room or audience warrants it, you should also provide a
