@@ -30,3 +30,21 @@ Bruce Eckel is the author of:
 - *Computer Interfacing with Pascal & C*, Eisys 1988, ISBN 0-89716-211-0.
 
 - *Black Belt C++* (Editor) M&T/Holt 1994, ISBN 978-1-55851-334-1.
+
+## Articles
+
+- "Java Alley" columnist for Web Techniques magazine
+
+- "C++ Adviser" columnist for Unix review
+
+- C++ columnist and contributing editor for Embedded Systems Programming Magazine
+
+- Columnist and contributing writer for Micro Cornucopia for 4 years
+
+- C++ Editor of the C Gazette for 2 1/2 years
+
+- Columnist and features editor of The C++ Report
+
+- His articles have also appeared in Software Development, Windows Tech
+Journal, The C++ Journal, PC Techniques, Dr. Dobb's Journal, and Midnight
+Engineering.
