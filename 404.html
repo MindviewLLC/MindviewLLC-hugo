@@ -27,13 +27,14 @@
     <div class="container">
         <h1 class="logo">
             404 - Oops! Sorry about that.<br>
-            This is a new web site.
+            This is a new web site.<br>
+            <span style="font-size: 28px !important; margin-top: 0; padding-top: 0;">... And some of the old links just don't translate.</span>
         </h1>
         <div class="content">
             <h3 class="motto">
-                ... And some of the old links just don't translate.<br>
-                If you return to the home page, you can probably find what you want.<br>
-                And if you can't, please send a message so I can add it.<br><br>
+                In <span id="counter">7</span> seconds you will be redirected to the "Quick Links" page,<br>
+                where you can probably find what you want.<br>
+                If you can't, please send a message so I can add it.<br>
                 <a href="http://mindviewllc.com/">MindView Home Page</a>
             </h3>
         </div>
@@ -44,6 +45,16 @@
       </div>
     </div>
  </div>
+     <script>
+        setInterval(function() {
+            var div = document.querySelector("#counter");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count <= 0) {
+                window.location.href="http://mindviewllc.com/quicklinks/";
+            }
+        }, 1000);
+    </script>
  </body>
    <script src="/404/js/jquery-1.10.2.js" type="text/javascript"></script>
    <script src="/404/js/bootstrap.min.js" type="text/javascript"></script>
