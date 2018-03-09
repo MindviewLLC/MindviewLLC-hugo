@@ -3,5 +3,8 @@ title: Events
 weight: 30
 ---
 
-- The [Winter Tech Forum](http://wintertechforum.com/), Feb 26 - March 2, 2018
+- Beijing, China: April 17 - 23 (various events)
+
+- Cleveland, OH ([Pycon](https://us.pycon.org/2018/)) May 10 - 17. Available to
+  speak to user groups etc. on the evenings of the sprint days, May 14 - 17.
 
