@@ -4,6 +4,10 @@ type: index
 weight: 10
 ---
 
-## This site is under construction
+MindView is a small company supporting Bruce Eckel's writing, events, and
+consulting activities.
 
-In the meantime, the [Quick Links](/quicklinks) page might have what you're looking for.
+### This site is under development
+
+In the meantime, the [Quick Links](/quicklinks) page might have what you're
+looking for.
