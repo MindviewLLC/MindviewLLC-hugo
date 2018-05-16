@@ -1,5 +1,7 @@
 # The Software Architecture Forum Hugo Static Site Source
 
+- [ ] Page: Past projects and products, with images of all book and other projects.
+
 Hugo Static Site for the [Software Architecture Forum Conference](www.SoftwareArchitectureForum.com).
 
 Because of the theme, the site automatically works well on phones as well as
