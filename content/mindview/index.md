@@ -4,8 +4,8 @@ type: index
 weight: 10
 ---
 
-MindView is a small company supporting Bruce Eckel's writing, events, and
-consulting activities.
+MindView is an artisanal farm-to-table software company supporting Bruce
+Eckel's writing, events, and consulting activities.
 
 See the menu for various categories.
 

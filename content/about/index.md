@@ -3,7 +3,9 @@ title: About
 weight: 200
 ---
 
-## [Background Information](https://www.blog.pythonlibrary.org/2017/11/06/pydev-of-the-week-bruce-eckel/)
+Bruce Eckel is the author of the multi-award-winning Thinking in Java and
+Thinking in C++ and other books. He has inhabited the programming planet for
+over 30 years: writing, giving lectures and seminars, and consulting.
 
 Questions? Email Mindview <mindviewinc@gmail.com>
 
