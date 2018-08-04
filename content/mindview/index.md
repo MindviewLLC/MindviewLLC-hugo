@@ -11,10 +11,15 @@ and experiences.
 See the menu for various topics. If you're in a hurry, the [Quick
 Links](/quicklinks) page might have what you're looking for.
 
-Under the right circumstances I sometimes provide consulting services. If you
-think we can find a good fit between us that creates an easy, effortless,
-enjoyable experience and meets both your needs and mine, I'd be glad to
-discuss possibilities.
+Littered about the Internet you will find various partially-completed projects.
+If you don't find something about it in [Quick Links](/quicklinks), chances are
+it's a dead project. While I start many projects with great enthusiasm, I have
+yet to find a consistent method for pruning ones that fail to take on a life of
+their own.
+
+I sometimes provide consulting services. If you think we can find a good fit
+between us that creates an easy, effortless, enjoyable experience and meets
+both your needs and mine, I'd be glad to discuss possibilities.
 
 Here is a partial list of my values and interests:
 
