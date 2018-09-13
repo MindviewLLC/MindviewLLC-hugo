@@ -1,0 +1,5 @@
+- All projects on GitHub
+- Customer tracks progress by watching github repo
+- Charged against Retainer
+- Contract
+- Managed/coached by me
