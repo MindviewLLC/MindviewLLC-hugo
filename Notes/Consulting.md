@@ -1,5 +1,8 @@
+- Full transparency
 - All projects on GitHub
 - Customer tracks progress by watching github repo
 - Charged against Retainer
 - Contract
 - Managed/coached by me
+- Different fees for different levels of programmer
+- List skills and interests for each programmer
