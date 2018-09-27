@@ -1,4 +1,4 @@
-baseurl = "http://MindviewLLC.com"
+baseurl = "https://mindviewllc.netlify.com"
 languageCode = "en-us"
 title = "MindView Exceptional Learning Experiences"
 theme = "hugo-material-docs"
