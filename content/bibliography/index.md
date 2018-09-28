@@ -1,3 +1,8 @@
+---
+title: Bibliography
+weight: 60
+---
+
 ## Books
 
 - *[Atomic Kotlin](www.AtomicKotlin.com)* (In development), Mindview 2018.

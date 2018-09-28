@@ -29,10 +29,8 @@ given hundreds of lectures and seminars throughout the world.
 
 He was a founding member of the ANSI/ISO C++ committee. He speaks regularly at
 conferences and was for many years the chair of both the C++ and Java tracks at
-the Software Development conference, was cofounder of the JavaPosse Roundup
-Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
-creator of the [Software Architecture
-Forum](http://softwarearchitectureforum.com).
+the Software Development conference, and was cofounder of the JavaPosse Roundup
+Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)).
 
 His book *Thinking in C++* was given the Software Development Jolt Award for
 best book published in 1995. *Thinking in Java* also received the Jolt Award
