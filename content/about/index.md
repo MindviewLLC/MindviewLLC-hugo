@@ -59,6 +59,10 @@ started his career developing embedded systems hardware and software. He has
 worked extensively with C++ since 1987, with Java since 1995, with Python
 since 1997, and currently studies new languages such as Kotlin.
 
+## Wikipedia Entry
+
+- [Bruce Eckel](https://en.wikipedia.org/wiki/Bruce_Eckel)
+
 + Site built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
 <a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
