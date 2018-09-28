@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.mindviewllc.com"
 languageCode = "en-us"
 title = "MindView Exceptional Learning Experiences"
 theme = "hugo-material-docs"
