@@ -5,11 +5,11 @@ weight: 60
 
 ## Books
 
-- *[Atomic Kotlin](www.AtomicKotlin.com)* (In development), Mindview 2018.
+- *[Atomic Kotlin](https://www.AtomicKotlin.com)* (In development), Mindview 2018.
 
-- *[On Java 8](www.OnJava8.com)*, Mindview 2017. ISBN 978-0-9818725-2-0.
+- *[On Java 8](https://www.OnJava8.com)*, Mindview 2017. ISBN 978-0-9818725-2-0.
 
-- *[Atomic Scala](www.AtomicScala.com)* with Dianne Marsh.
+- *[Atomic Scala](https://www.AtomicScala.com)* with Dianne Marsh.
   Mindview 2011, 2nd Edition 2015, ISBN 978-0-9818725-1-3.
 
 - *First Steps in Flex*, with James Ward. MindView 2008, ISBN 978-0-9818725-0-6.
@@ -38,7 +38,7 @@ weight: 60
 
 - *Beyond The World of C++*, video tapes created and published by Borland
 
-- *Hands-On Java eSeminar*, [MindViewLLC](http://www.MindViewLLC.com) 2004.
+- *Hands-On Java eSeminar*, [MindViewLLC](https://www.MindViewLLC.com) 2004.
 
 ## Articles
 
