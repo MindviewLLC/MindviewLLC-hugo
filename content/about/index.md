@@ -63,6 +63,13 @@ since 1997, and currently studies new languages such as Kotlin.
 
 - [Bruce Eckel](https://en.wikipedia.org/wiki/Bruce_Eckel)
 
+## Publicity Photo
+
+<table align="left">
+<tr><td><img src="/publicity/BruceEckel.jpg" alt="Bruce Eckel" style="width:250px;"/></td></tr>
+<caption align="bottom">To download full-sized image, right click on the image and choose "save as."</caption>
+</table>
+
 + Site built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
 <a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
