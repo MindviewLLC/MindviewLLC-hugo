@@ -11,6 +11,8 @@ holds retreats and events in his home town of Crested Butte, CO.
 
 Questions? Email Mindview <mindviewinc@gmail.com>
 
+## [IRS Form W-9](W9.pdf)
+
 ## Short Bio:
 
 Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) is the author
