@@ -59,29 +59,3 @@ extensively with C++ since 1987, with Java since 1995, with Python since 1997,
 and is currently coauthoring the book [Atomic
 Kotlin](https://www.atomickotlin.com/).
 
-## Publicity Photos:
-
-[![](MindViewLLC.png){width="300"}](./MindViewLLC.png)
-
-[![](Sunglasses-Thumb.jpg){width="300"}](./Sunglasses.jpg)
-
-![SD 2000 Photo](SD2000-panel.jpg){width="273" height="217"}
-
-## Covers:
-
-Two magazine covers from the past.
-
-![Sepia Blur Photo](MidEngrCoverHi.JPG){width="400"}
-
-![Sepia Blur Photo](UnixReviewCoverHi.JPG){width="400"}
-
-## AV Requirements:
-
-I give presentations from my notebook computer (a Dell Windows 10 Machine
-with HDMI connector), so unless otherwise specified you should provide a
-computer projection system that will handle at least Super VGA output of
-**1024 x 768**. If the room or audience warrants it, you should also provide a
-PA system and microphone. If I'm giving a straight presentation without
-exercises, then that should be enough; if there are exercises involved then
-everyone usually brings notebook computers with the appropriate tools loaded
-and pre-tested (unless you have a training room equipped with computers).
