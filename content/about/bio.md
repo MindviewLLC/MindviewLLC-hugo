@@ -19,7 +19,8 @@ JavaPosse Roundup Conference (now the [Winter Tech
 Forum](http://www.WinterTechForum.com)) and created Evolve Coworking in
 Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co). He
 periodically holds Developer Retreats and provides public and private training
-and consulting in programming languages and software system design.
+and consulting in programming languages and software system design. He is
+currently coauthoring the book [Atomic Kotlin](https://www.atomickotlin.com/)
 
 ## Long Bio:
 
