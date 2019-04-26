@@ -1,25 +1,25 @@
 ## Very Short Bio:
 
-Bruce Eckel has published over 150 articles and seven books (see
-[Bibliography]). He creates and runs small conferences and provides public and
-private training and consulting in programming languages and software system
-design. Details can be found at
-[www.MindViewLLC.com](http://www.MindViewLLC.com).
+Bruce Eckel has published 10 books (see [Bibliography]), numerous blog posts,
+over 150 articles, and has given hundreds of presentations. He creates and
+runs small conferences and provides public and private training and consulting
+in programming languages and software system design. He also created Evolve
+Coworking in Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co).
+Details can be found at [www.MindViewLLC.com](http://www.MindViewLLC.com).
 
 
 ## Short Bio:
 
-Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) is the author
-of 10 books (see [Bibliography]), has given hundreds of presentations
-throughout the world, published over 150 articles in numerous magazines, was a
-founding member of the ANSI/ISO C++ committee and speaks regularly at
-conferences. He was for many years the chair of both the C++ and Java tracks at
-the Software Development conference, was cofounder of the JavaPosse Roundup
-Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
-creator of the [Software Architecture
-Forum](http://softwarearchitectureforum.com). He periodically holds Developer
-Retreats and provides public and private training and consulting in programming
-languages and software system design.
+Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published
+10 books (see [Bibliography]), numerous blog posts, over 150 articles, and has
+given hundreds of presentations throughout the world. He was a founding member
+of the ANSI/ISO C++ committee and was for many years the chair of both the C++
+and Java tracks at the Software Development conference. He cofounded the
+JavaPosse Roundup Conference (now the [Winter Tech
+Forum](http://www.WinterTechForum.com)) and created Evolve Coworking in
+Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co). He
+periodically holds Developer Retreats and provides public and private training
+and consulting in programming languages and software system design.
 
 ## Long Bio:
 
