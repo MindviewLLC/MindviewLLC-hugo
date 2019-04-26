@@ -2,10 +2,10 @@
 
 Bruce Eckel has published 10 books (see [Bibliography]), numerous blog posts,
 over 150 articles, and has given hundreds of presentations. He creates and
-runs small conferences and provides public and private training and consulting
-in programming languages and software system design. He also created Evolve
-Coworking in Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co).
-Details can be found at [www.MindViewLLC.com](http://www.MindViewLLC.com).
+runs small conferences and provides training and consulting in programming
+languages and software system design. He also created Evolve Coworking in
+Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co). Details can
+be found at [www.MindViewLLC.com](http://www.MindViewLLC.com).
 
 
 ## Short Bio:
@@ -23,20 +23,23 @@ and consulting in programming languages and software system design.
 
 ## Long Bio:
 
-Since 1986, Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has
-published over 150 computer articles and 10 books (see [Bibliography]), and
-given hundreds of lectures and seminars throughout the world.
+Since 1986, Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com))
+has published 10 books (see [Bibliography]), numerous blog posts, over 150
+articles, and has given hundreds of lectures and seminars throughout the
+world.
 
 He was a founding member of the ANSI/ISO C++ committee. He speaks regularly at
-conferences and was for many years the chair of both the C++ and Java tracks at
-the Software Development conference, and was cofounder of the JavaPosse Roundup
-Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)).
+conferences and was for many years the chair of both the C++ and Java tracks
+at the Software Development conference. He cofounded the JavaPosse Roundup
+Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
+created Evolve Coworking in Crested Butte, CO
+[www.EvolveWork.co](http://www.EvolveWork.co).
 
-His book *Thinking in C++* was given the Software Development Jolt Award for
-best book published in 1995. *Thinking in Java* also received the Jolt Award
-for best book published in 2002, as well as the [Java World Reader's Choice
-Award](http://www.javaworld.com/javaworld/rcawards99/jw-0320-rca.html) and Java
-World Editor's Choice Award for best book, the Java Developer's Journal
+His book *Thinking in C++* won the Software Development Jolt Award for best
+book published in 1995. *Thinking in Java* received the Jolt Award for best
+book published in 2002, as well as the [Java World Reader's Choice
+Award](http://www.javaworld.com/javaworld/rcawards99/jw-0320-rca.html) and
+Java World Editor's Choice Award for best book, the Java Developer's Journal
 Editor's Choice Award for books, and the Software Development Productivity
 Award in 1999.
 
@@ -50,10 +53,11 @@ and consulting experiences in programming languages and software system
 design.
 
 Bruce attended Pomona College and has a BS in Applied Physics from UC Irvine
-and a Master of Computer Engineering from Cal Poly, San Luis Obispo. He
-started his career developing embedded systems hardware and software. He has
-worked extensively with C++ since 1987, with Java since 1995, with Python
-since 1997, and currently studies new languages such as Kotlin.
+and a Master of Computer Engineering from Cal Poly, San Luis Obispo. He began
+his career developing embedded systems hardware and software. He has worked
+extensively with C++ since 1987, with Java since 1995, with Python since 1997,
+and is currently coauthoring the book [Atomic
+Kotlin](https://www.atomickotlin.com/).
 
 ## Publicity Photos:
 
