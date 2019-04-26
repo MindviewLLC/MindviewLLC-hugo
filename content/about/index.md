@@ -6,6 +6,8 @@ weight: 200
 - Questions? Email Mindview <mindviewinc@gmail.com>
 - [IRS Form W-9](W9.pdf)
 
+<br>
+
 # Biography
 
 {{< readfile file="/content/about/bio.md" markdown="true" >}}
