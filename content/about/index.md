@@ -3,14 +3,7 @@ title: About
 weight: 200
 ---
 
-Bruce Eckel is the author of 10 books on computer programming (full list
-[here](https://en.wikipedia.org/wiki/Bruce_Eckel)), including the
-multi-award-winning *Thinking in Java* and *Thinking in C++*. For the past 30
-years he has been a speaker, teacher and consultant throughout the world. He
-holds retreats and events in his home town of Crested Butte, CO, where he
-has created [Evolve Coworking](http://www.EvolveWork.co)
-
-Questions? Email Mindview <mindviewinc@gmail.com>
+## Questions? Email Mindview <mindviewinc@gmail.com>
 
 ## [IRS Form W-9](W9.pdf)
 
