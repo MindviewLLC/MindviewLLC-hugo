@@ -1,6 +1,6 @@
 ## Books
 
-- *[Atomic Kotlin](www.AtomicKotlin.com)* (In development), Mindview 2018.
+- *[Atomic Kotlin](www.AtomicKotlin.com)* (In development), Mindview 2019.
 
 - *[On Java 8](www.OnJava8.com)*, Mindview 2017. ISBN 978-0-9818725-2-0.
 
