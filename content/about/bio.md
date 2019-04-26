@@ -3,9 +3,9 @@
 Bruce Eckel has published 10 books (see [Bibliography]), numerous blog posts,
 over 150 articles, and has given hundreds of presentations. He creates and
 runs small conferences and provides training and consulting in programming
-languages and software system design. He also created Evolve Coworking in
-Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co). Details can
-be found at [www.MindViewLLC.com](http://www.MindViewLLC.com).
+languages and software system design. He also created [Evolve
+Coworking](http://www.EvolveWork.co) in Crested Butte, CO. Details can be
+found at [www.MindViewLLC.com](http://www.MindViewLLC.com).
 
 
 ## Short Bio:
@@ -16,10 +16,10 @@ given hundreds of presentations throughout the world. He was a founding member
 of the ANSI/ISO C++ committee and was for many years the chair of both the C++
 and Java tracks at the Software Development conference. He cofounded the
 JavaPosse Roundup Conference (now the [Winter Tech
-Forum](http://www.WinterTechForum.com)) and created Evolve Coworking in
-Crested Butte, CO [www.EvolveWork.co](http://www.EvolveWork.co). He
-periodically holds Developer Retreats and provides public and private training
-and consulting in programming languages and software system design. He is
+Forum](http://www.WinterTechForum.com)) and created [Evolve
+Coworking](http://www.EvolveWork.co) in Crested Butte, CO. He periodically
+holds Developer Retreats and provides public and private training and
+consulting in programming languages and software system design. He is
 currently coauthoring the book [Atomic Kotlin](https://www.atomickotlin.com/)
 
 ## Long Bio:
@@ -33,8 +33,7 @@ He was a founding member of the ANSI/ISO C++ committee. He speaks regularly at
 conferences and was for many years the chair of both the C++ and Java tracks
 at the Software Development conference. He cofounded the JavaPosse Roundup
 Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
-created Evolve Coworking in Crested Butte, CO
-[www.EvolveWork.co](http://www.EvolveWork.co).
+created [Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO.
 
 His book *Thinking in C++* won the Software Development Jolt Award for best
 book published in 1995. *Thinking in Java* received the Jolt Award for best
