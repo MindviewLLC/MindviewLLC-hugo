@@ -27,9 +27,9 @@ weight: 200
 
 Two magazine covers from the past.
 
-![Sepia Blur Photo](MidEngrCoverHi.JPG){width="400"}
+<img src="MidEngrCoverHi.JPG" style="width:400px;"/>
 
-![Sepia Blur Photo](UnixReviewCoverHi.JPG){width="400"}
+<img src="UnixReviewCoverHi.JPG" style="width:400px;"/>
 
 ## AV Requirements:
 
