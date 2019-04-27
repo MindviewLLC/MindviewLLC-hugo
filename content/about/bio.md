@@ -1,4 +1,4 @@
-## Very Short Bio:
+## Very Short Bio
 
 Bruce Eckel [www.MindViewLLC.com](http://www.MindViewLLC.com) has published 10
 books (see [Bibliography]), numerous blog posts, over 150 articles, and has
@@ -8,7 +8,7 @@ design. He also created [Evolve Coworking](http://www.EvolveWork.co) in
 Crested Butte, CO.
 
 
-## Short Bio:
+## Short Bio
 
 Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published
 10 books (see [Bibliography]), numerous blog posts, over 150 articles, and has
@@ -22,7 +22,7 @@ holds Developer Retreats and provides public and private training and
 consulting in programming languages and software system design. He is
 currently coauthoring the book [Atomic Kotlin](https://www.atomickotlin.com/)
 
-## Long Bio:
+## Long Bio
 
 Since 1986, Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com))
 has published 10 books (see [Bibliography]), numerous blog posts, over 150

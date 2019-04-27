@@ -23,7 +23,7 @@ weight: 200
 <caption align="bottom">To download full-sized image, right click on the image and choose "save as."</caption>
 </table>
 
-## Covers:
+## Covers
 
 Two magazine covers from the past.
 
@@ -31,7 +31,7 @@ Two magazine covers from the past.
 
 <img src="UnixReviewCoverHi.JPG" style="width:400px;"/>
 
-## AV Requirements:
+## AV Requirements
 
 I give presentations from my notebook computer (a Dell Windows 10 Machine
 with HDMI connector), so unless otherwise specified you should provide a
