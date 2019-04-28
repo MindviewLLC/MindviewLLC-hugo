@@ -101,6 +101,17 @@ comfort is what motivates me onto the plane in the first place. For community
 conferences that are paying my expenses, however, I only ask for expenses and
 don't ask for a speaking honorarium.
 
+## AV Requirements
+
+I give presentations from my notebook computer (a Dell Windows 10 Machine with
+HDMI connector), so unless otherwise specified you should provide a computer
+projection system that will handle at least Super VGA output of **1024 x 768**.
+If the room or audience warrants it, you should also provide a PA system and
+microphone. If I'm giving a straight presentation without exercises that should
+be enough. If there are exercises, everyone usually brings notebook computers
+with the appropriate tools loaded and pre-tested (unless you have a training
+room equipped with computers).
+
 # Inquiries
 
 Check the [Event list](/events) for conflicts. You may also find that an event is
