@@ -20,7 +20,7 @@ weight: 200
 
 <table align="left">
 <tr><td><img src="/publicity/BruceEckel.jpg" alt="Bruce Eckel" style="width:250px;"/></td></tr>
-<caption align="bottom">Right click on image and choose "save as"</caption>
+<caption align="bottom">Right-click on image and choose "save as"</caption>
 </table>
 
 ## Covers
