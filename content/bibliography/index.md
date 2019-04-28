@@ -38,7 +38,7 @@ weight: 60
 
 - *Beyond The World of C++*, video tapes created and published by Borland
 
-- *Hands-On Java eSeminar*, [MindViewLLC](https://www.MindViewLLC.com) 2004.
+- *Hands-On Java eSeminar*, MindView 2004.
 
 ## Articles
 
