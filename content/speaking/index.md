@@ -101,7 +101,7 @@ comfort is what motivates me onto the plane in the first place. For community
 conferences that are paying my expenses, however, I only ask for expenses and
 don't ask for a speaking honorarium.
 
-## AV Requirements
+# AV Requirements
 
 I give presentations from my notebook computer (a Dell Windows 10 Machine with
 HDMI connector), so unless otherwise specified you should provide a computer
