@@ -1,6 +1,6 @@
 ## Very Short Bio
 
-Bruce Eckel [www.MindViewLLC.com](http://www.MindViewLLC.com) has published 10
+Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published 10
 books (see [Bibliography]), numerous blog posts, over 150 articles, and has
 given hundreds of presentations. He creates and runs small conferences and
 provides training and consulting in programming languages and software system
