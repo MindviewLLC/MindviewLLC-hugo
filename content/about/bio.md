@@ -1,7 +1,7 @@
 ## Very Short Bio
 
 Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published 10
-books (see [Bibliography]), numerous blog posts, over 150 articles, and has
+books (see [Bibliography](/bibliography)), numerous blog posts, over 150 articles, and has
 given hundreds of presentations. He creates and runs small conferences and
 provides training and consulting in programming languages and software system
 design. He also created [Evolve Coworking](http://www.EvolveWork.co) in
@@ -11,7 +11,7 @@ Crested Butte, CO.
 ## Short Bio
 
 Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published
-10 books (see [Bibliography]), numerous blog posts, over 150 articles, and has
+10 books (see [Bibliography](/bibliography)), numerous blog posts, over 150 articles, and has
 given hundreds of presentations throughout the world. He was a founding member
 of the ANSI/ISO C++ committee and was for many years the chair of both the C++
 and Java tracks at the Software Development conference. He cofounded the
@@ -25,7 +25,7 @@ currently coauthoring the book [Atomic Kotlin](https://www.atomickotlin.com/)
 ## Long Bio
 
 Since 1986, Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com))
-has published 10 books (see [Bibliography]), numerous blog posts, over 150
+has published 10 books (see [Bibliography](/bibliography)), numerous blog posts, over 150
 articles, and has given hundreds of lectures and seminars throughout the
 world.
 
