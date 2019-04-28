@@ -33,14 +33,14 @@ Two magazine covers from the past.
 
 ## AV Requirements
 
-I give presentations from my notebook computer (a Dell Windows 10 Machine
-with HDMI connector), so unless otherwise specified you should provide a
-computer projection system that will handle at least Super VGA output of
-**1024 x 768**. If the room or audience warrants it, you should also provide a
-PA system and microphone. If I'm giving a straight presentation without
-exercises, then that should be enough; if there are exercises involved then
-everyone usually brings notebook computers with the appropriate tools loaded
-and pre-tested (unless you have a training room equipped with computers).
+I give presentations from my notebook computer (a Dell Windows 10 Machine with
+HDMI connector), so unless otherwise specified you should provide a computer
+projection system that will handle at least Super VGA output of **1024 x 768**.
+If the room or audience warrants it, you should also provide a PA system and
+microphone. If I'm giving a straight presentation without exercises that should
+be enough. If there are exercises, everyone usually brings notebook computers
+with the appropriate tools loaded and pre-tested (unless you have a training
+room equipped with computers).
 
 + Site built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
