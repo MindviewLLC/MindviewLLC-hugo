@@ -6,7 +6,7 @@ weight: 20
 These might be the links you're looking for. If you don't
 see what you need,
 <a href="mailto:mindviewinc@gmail.com?Subject=Mindview%20site%20query"
-  target="_blank">send a note</a>
+  target="_blank">send a note</a>.
 
 ***
 ### Conferences
