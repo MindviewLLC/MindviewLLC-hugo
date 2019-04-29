@@ -20,7 +20,7 @@ The Software Architecture Forum</a>.
 ***
 ### Blogs
 
-+ <a href="http://blog.BruceEckel.com/" target="_blank">Blog</a>.
++ <a href="http://www.BruceEckel.com/" target="_blank">Blog</a>.
 
 + <a href="http://www.Reinventing-Business.com" target="_blank">
 Reinventing Business</a> (Blog on alternative organizational structures).
@@ -69,6 +69,11 @@ Thinking in C++ 2nd ed, Volume 1 Annotated Solution Guide</a>.
 
 + <a href="https://archive.org/details/ThinkingInC" target="_blank">
 Thinking in C Multimedia Seminar</a> (Prepares beginners for C++).
+
+***
+### Bibliography
+
++ [Bibliography](/bibliography)
 
 ***
 ### Written About But Never Created
