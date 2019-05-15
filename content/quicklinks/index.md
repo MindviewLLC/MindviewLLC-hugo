@@ -9,6 +9,13 @@ see what you need,
   target="_blank">send a note</a>.
 
 ***
+### Miscellaneous
+
++ <a href="https://docs.google.com/presentation/d/13yWROkwsd95Y_Xcwr-lFymClaEOgj64hq8YJZYPFO-w/edit?usp=sharing"
+target="_blank">Slides from Geecon 2019, Krakow, Poland</a>
+
+
+***
 ### Conferences
 
 + <a href="http://www.WinterTechForum.com" target="_blank">
