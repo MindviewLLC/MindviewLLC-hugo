@@ -17,6 +17,8 @@ rel="noopener noreferrer">Evolve Coworking</a> in Crested Butte, where you'll
 find comfortable Aeron-style chairs and high-speed fiber. Crested Butte is full
 of restaurants, coffee shops and opportunities for non-work outdoor activities.
 
+<hr>
+
 ### August 20-27th, 2019
 
 with Luciano Ramalho
@@ -49,7 +51,5 @@ You are responsible for your own travel, lodging, and meals, but people often:
 - Fee: $300. Note that there are only 5 available spaces.
 
 ### If you have questions, <a href="javascript:location='mailto:\u0042\u0072\u0075\u0063\u0065\u0054\u0045\u0063\u006b\u0065\u006c\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">send an email</a>.
-
-### Your fee is your registration:
 
 ## <a href="https://link.waveapps.com/9qsqy4-zg9d2n" target="_blank" rel="noopener noreferrer">Register Here</a>
