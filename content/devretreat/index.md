@@ -36,6 +36,7 @@ target="_blank" rel="noopener noreferrer"><i>Atomic Kotlin</i></a>.
 ### 5 spaces available
 
 You are responsible for your own travel, lodging, and meals, but people often:
+
 - Carpool up from Denver airport
 - Rent houses together
 - Eat together
