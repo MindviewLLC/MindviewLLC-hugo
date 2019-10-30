@@ -101,7 +101,9 @@ comfort is what motivates me onto the plane in the first place. For community
 conferences that are paying my expenses, however, I only ask for expenses and
 don't ask for a speaking honorarium.
 
-- Please check to ensure you've performed the necessary steps for me to gain
+## Travel Documents
+
+Please check to ensure you've performed the necessary steps for me to gain
 entrance to your country for business purposes, whether this means the
 acquisition of a visa or a letter of invitation. On several occasions the need
 for a visa has been overlooked and this has produced delays or even prevented
