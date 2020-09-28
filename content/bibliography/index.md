@@ -5,7 +5,7 @@ weight: 60
 
 ## Books
 
-- *[Atomic Kotlin](https://www.AtomicKotlin.com)* (In development).
+- *[Atomic Kotlin](https://www.AtomicKotlin.com)*, Mindview 2020.
 
 - *[On Java 8](https://www.OnJava8.com)*, Mindview 2017. ISBN 978-0-9818725-2-0.
 

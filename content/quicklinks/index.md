@@ -45,8 +45,8 @@ On Java 8 Example Code</a>
 + <a href="https://gum.co/HandsOnJava" target="_blank">
 Hands-On Java 2nd Ed. Seminar (Slides + Audio)</a>
 
-+ <a href="https://archive.org/details/TIJ4CcR1" target="_blank">
-Thinking in Java 4th Edition Creative Commons PDF eBook</a>
++ <a href="https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486/" target="_blank">
+Thinking in Java 4th Edition</a>
 
 + <a href="https://github.com/BruceEckel/TIJ4-code" target="_blank">
 Thinking in Java 4th Edition Example Code</a>
