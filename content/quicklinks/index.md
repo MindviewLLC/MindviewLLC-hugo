@@ -35,6 +35,11 @@ Reinventing Business</a> (Blog on alternative organizational structures)
 + 2005-2014 [Artima Blog](https://www.artima.com/weblogs/index.jsp?blogger=beckel)
 
 ***
+### Kotlin
+
++ <a href="http://www.AtomicKotlin.com" target="_blank">Atomic Kotlin</a>
+
+***
 ### Java
 
 + <a href="http://www.OnJava8.com" target="_blank">On Java 8</a>
