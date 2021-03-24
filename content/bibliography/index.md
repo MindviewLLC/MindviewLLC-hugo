@@ -5,9 +5,9 @@ weight: 60
 
 ## Books
 
-- *[Atomic Kotlin](https://www.AtomicKotlin.com)*, Mindview 2020.
+- *[Atomic Kotlin](https://www.AtomicKotlin.com)*, Mindview 2021. eBook ISBN 978-0-9818725-4-4, Print Book ISBN 978-0-9818725-5-1.
 
-- *[On Java 8](https://www.OnJava8.com)*, Mindview 2017. ISBN 978-0-9818725-2-0.
+- *[On Java 8](https://www.OnJava8.com)*, Mindview 2017, updated 2021. ISBN 978-0-9818725-2-0.
 
 - *[Atomic Scala](https://www.AtomicScala.com)* with Dianne Marsh.
   Mindview 2011, 2nd Edition 2015, ISBN 978-0-9818725-1-3.
@@ -34,26 +34,25 @@ weight: 60
 
 ## Media
 
-- *The World of C++*, video tapes created and published by Borland
+- *The World of C++*, video tapes created and published by Borland.
 
-- *Beyond The World of C++*, video tapes created and published by Borland
+- *Beyond The World of C++*, video tapes created and published by Borland.
 
 - *Hands-On Java eSeminar*, MindView 2004.
 
 ## Articles
 
-- "Java Alley" columnist for Web Techniques magazine
+- "Java Alley" columnist for Web Techniques magazine.
 
-- "C++ Adviser" columnist for Unix review
+- "C++ Adviser" columnist for Unix review.
 
-- C++ columnist and contributing editor for Embedded Systems Programming Magazine
+- C++ columnist and contributing editor for Embedded Systems Programming Magazine.
 
-- Columnist and contributing writer for Micro Cornucopia for 4 years
+- Columnist and contributing writer for Micro Cornucopia for 4 years.
 
-- C++ Editor of the C Gazette for 2 1/2 years
+- C++ Editor of the C Gazette for 2 1/2 years.
 
-- Columnist and features editor of The C++ Report
+- Columnist and features editor of The C++ Report.
 
-- Articles have also appeared in Software Development, Windows Tech
-Journal, The C++ Journal, PC Techniques, Dr. Dobb's Journal, and Midnight
-Engineering.
+- Articles have also appeared in Software Development, Windows Tech Journal, The
+  C++ Journal, PC Techniques, Dr. Dobb's Journal, and Midnight Engineering.
