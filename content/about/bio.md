@@ -4,8 +4,8 @@ Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published 10
 books (see [Bibliography](https://www.mindviewllc.com/bibliography/)), numerous
 blog posts, over 150 articles, and has given hundreds of presentations. He
 creates and runs small conferences and provides training and consulting in
-programming languages and software system design. He also created [Evolve
-Coworking](http://www.EvolveWork.co) in Crested Butte, CO.
+programming languages and software system design. With James Ward, he creates
+the [Happy Path Programming](http://happypathprogramming.com/) podcast.
 
 
 ## Short Bio
@@ -15,13 +15,15 @@ books (see [Bibliography](https://www.mindviewllc.com/bibliography/)), numerous
 blog posts, over 150 articles, and has given hundreds of presentations
 throughout the world. He was a founding member of the ANSI/ISO C++ committee and
 was for many years the chair of both the C++ and Java tracks at the Software
-Development Conference. He cofounded the JavaPosse Roundup Conference (now the
-[Winter Tech Forum](http://www.WinterTechForum.com)) and created [Evolve
-Coworking](http://www.EvolveWork.co) in Crested Butte, CO. He periodically holds
-Developer Retreats and provides public and private training and consulting in
-programming languages and software system design. His latest books are [Atomic
-Kotlin](https://www.atomickotlin.com/) and [On Java
-8](https://www.onjava8.com/).
+Development Conference. With James Ward, he creates the [Happy Path
+Programming](http://happypathprogramming.com/) podcast. He cofounded the
+JavaPosse Roundup Conference (now the
+[Winter Tech Forum](http://www.WinterTechForum.com)) and created
+[Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO. He
+periodically holds Developer Retreats and provides public and private training
+and consulting in programming languages and software system design. His latest
+books are [Atomic Kotlin](https://www.atomickotlin.com/) and
+[On Java 8](https://www.onjava8.com/).
 
 ## Long Bio
 
@@ -33,9 +35,11 @@ the world.
 
 He was a founding member of the ANSI/ISO C++ committee. He speaks regularly at
 conferences and was for many years the chair of both the C++ and Java tracks at
-the Software Development Conference. He cofounded the JavaPosse Roundup
-Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and
-created [Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO.
+the Software Development Conference. With James Ward, he creates the
+[Happy Path Programming](http://happypathprogramming.com/) podcast. He cofounded
+the JavaPosse Roundup Conference (now the
+[Winter Tech Forum](http://www.WinterTechForum.com)) and created
+[Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO.
 
 His book *Thinking in C++* won the Software Development Jolt Award for best book
 published in 1995. *Thinking in Java* received the Jolt Award for best book
