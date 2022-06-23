@@ -7,6 +7,8 @@ weight: 50
 
 - [Java Magazine Articles](https://blogs.oracle.com/javamagazine/search.html?contentType=Blog-Post&default=Bruce%20Eckel*)
 
+- April 2022 [A Tour of the Modern Java Platform](https://www.youtube.com/watch?v=4RbYiTI5P_Q&ab_channel=ChariotSolutions) (Online presentation with James Ward)
+
 - March 2021 [JetBrains Connect, Episode 4: "Why Kotlin?"](https://youtu.be/0V-qp-qpjzU)
 
 - February 2021 [Interview on Frontmatter Podcast](https://www.stitcher.com/show/frontmatter/episode/bruce-eckel-co-author-of-atomic-kotlin-81332101)
