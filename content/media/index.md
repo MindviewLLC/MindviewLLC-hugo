@@ -3,6 +3,10 @@ title: Media
 weight: 50
 ---
 
+- (Ongoing) [Happy Path Programming Podcast](https://happypathprogramming.com)
+
+- July 2022 [Real Python Podcast Interview](https://realpython.com/podcasts/rpp/116/)
+
 - April 2022 Pycon presentation [Making Data Classes Work for You](https://www.youtube.com/watch?v=w77Kjs5dEko&ab_channel=PyConUS)
 
 - [Java Magazine Articles](https://blogs.oracle.com/javamagazine/search.html?contentType=Blog-Post&default=Bruce%20Eckel*)
