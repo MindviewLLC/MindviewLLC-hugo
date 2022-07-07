@@ -19,12 +19,12 @@ weight: 50
 
 - January 2018 [Panel Discussion](https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion)
 
-- [Java Magazine Review of
-*On Java 8*](https://blogs.oracle.com/javamagazine/post/book-review-on-java-8-eckel)
-
 - November 2017 VJug24 Keynote: [Overview of Kotlin for Java Programmers](https://virtualjug.com/vjug24-keynote-an-overview-of-kotlin-for-java-programmers/)
 
 - November 2017 [PyDev of the week](https://www.blog.pythonlibrary.org/2017/11/06/pydev-of-the-week-bruce-eckel/)
+
+- September 2017 [Java Magazine Review of
+*On Java 8*](https://blogs.oracle.com/javamagazine/post/book-review-on-java-8-eckel)
 
 - June 2015 [O'Reilly Interview](https://opensource.com/life/15/7/interview-bruce-eckel-java)
 
