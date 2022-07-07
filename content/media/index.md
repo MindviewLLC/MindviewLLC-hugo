@@ -20,7 +20,7 @@ weight: 50
 - January 2018 [Panel Discussion](https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion)
 
 - [Java Magazine Review of
-*On Java 8*](http://www.javamagazine.mozaicreader.com/SeptOct2017#&pageSet=10&page=0)
+*On Java 8*](https://blogs.oracle.com/javamagazine/post/book-review-on-java-8-eckel)
 
 - November 2017 VJug24 Keynote: [Overview of Kotlin for Java Programmers](https://virtualjug.com/vjug24-keynote-an-overview-of-kotlin-for-java-programmers/)
 
