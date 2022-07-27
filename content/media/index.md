@@ -5,6 +5,8 @@ weight: 50
 
 - (Ongoing) [Happy Path Programming Podcast](https://happypathprogramming.com)
 
+- July 2022 [Chinese InfoQ Interview](https://mp.weixin.qq.com/s/ivdnSu3RUpm6reJ2UTO_hQ) (Use Google Translate to convert).
+
 - July 2022 [Real Python Podcast Interview](https://realpython.com/podcasts/rpp/116/)
 
 - April 2022 Pycon presentation [Making Data Classes Work for You](https://www.youtube.com/watch?v=w77Kjs5dEko&ab_channel=PyConUS)
