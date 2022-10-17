@@ -5,7 +5,7 @@ weight: 50
 
 - (Ongoing) [Happy Path Programming Podcast](https://happypathprogramming.com)
 
-- September 2022 [Polymorphism Unbound](https://youtu.be/ojffu0F_aQQ) StrangeLoop Presentation.
+- September 2022 [StrangeLoop Presentation: Polymorphism Unbound](https://youtu.be/ojffu0F_aQQ).
 
 - July 2022 [Chinese InfoQ Interview](https://mp.weixin.qq.com/s/ivdnSu3RUpm6reJ2UTO_hQ) (Use Google Translate to convert).
 
