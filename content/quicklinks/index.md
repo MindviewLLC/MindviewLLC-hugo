@@ -60,7 +60,7 @@ Thinking in Java 4th Edition Example Code</a>
 Thinking in Java 4th Edition Annotated Solution Guide</a>
 
 + <a href="https://archive.org/details/ThinkingInC" target="_blank">
-Thinking in C Multimedia Seminar</a> (Prepares beginners for Java)
+Thinking in C Multimedia Seminar</a> (Prepares beginners for Java). *This was created in Flash and no longer works in most browsers. If it ever gets updated the new link will be here.*
 
 ***
 ### Scala
@@ -80,7 +80,7 @@ Thinking in C++ 2nd ed, Volume 2 Book (HTML) and Example Code</a>
 Thinking in C++ 2nd ed, Volume 1 Annotated Solution Guide</a>
 
 + <a href="https://archive.org/details/ThinkingInC" target="_blank">
-Thinking in C Multimedia Seminar</a> (Prepares beginners for C++)
+Thinking in C Multimedia Seminar</a> (Prepares beginners for C++). *This was created in Flash and no longer works in most browsers. If it ever gets updated the new link will be here.*
 
 ***
 ### Bibliography
