@@ -7,8 +7,7 @@ weight: 10
 If you're in a hurry, the [Quick Links](/quicklinks) page might have what you're looking for.
 
 Welcome. I'm Bruce Eckel and this is the website for my company, MindView. I
-create books, seminars, self organizing events, and other learning experiments
-and experiences.
+create books, seminars, self organizing events, and other learning experiences and experiments.
 
 ## Consulting
 
