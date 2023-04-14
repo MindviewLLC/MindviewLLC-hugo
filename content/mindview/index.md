@@ -30,6 +30,4 @@ I am conversant in many specific areas where I do not consider myself expert eno
 
 I enjoy the flexibility in thinking that I sometimes find in smaller organizations.
 
-If you think we can find a good fit
-between us that creates an easy, effortless, enjoyable experience and meets
-both your needs and mine, I'm happy to <a href='m&#97;i&#108;to&#58;B&#37;72uc&#37;&#54;&#53;TEckel&#64;&#103;%6Da&#105;l%2Ecom'>&#66;r&#117;c&#101;TEckel&#64;&#103;m&#97;i&#108;&#46;com</a>discuss possibilities.</a>
+If you think we might find a good fit, I'm happy to discuss possibilities: <a href='&#109;ailt&#111;&#58;%&#52;2&#114;&#117;ce&#37;54Eck%&#54;5&#37;6C&#64;%&#54;7m&#97;il&#46;co&#37;&#54;D'>&#66;ru&#99;&#101;TEckel&#64;g&#109;&#97;il&#46;com</a>.
