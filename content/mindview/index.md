@@ -25,7 +25,6 @@ I have recently been delving into Rust, which seems to be the ideal language for
 
 My skills lie in teaching, coaching, and leading architecture and code reviews. I've also had extensive experience organizing open-spaces events.
 
-I am conversant in many areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management.
+I am conversant in many areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management, and most certainly others.
 
-I enjoy the flexibility in thinking found in smaller organizations.
-
+I enjoy the flexibility in thinking that I sometimes find in smaller organizations.
