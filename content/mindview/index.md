@@ -29,3 +29,7 @@ My skills lie in teaching, coaching, and leading architecture and code reviews. 
 I am conversant in many specific areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management, and certainly others.
 
 I enjoy the flexibility in thinking that I sometimes find in smaller organizations.
+
+If you think we can find a good fit
+between us that creates an easy, effortless, enjoyable experience and meets
+both your needs and mine, I'm happy to <a href="javascript:location='mailto:\u0042\u0072\u0075\u0063\u0065\u0054\u0045\u0063\u006b\u0065\u006c\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">discuss possibilities.</a>
