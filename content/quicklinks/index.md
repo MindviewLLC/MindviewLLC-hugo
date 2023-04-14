@@ -8,6 +8,12 @@ see what you need,
 <a href="mailto:mindviewinc@gmail.com?Subject=Mindview%20site%20query"
   target="_blank">send a note</a>.
 
+Littered about the Internet you will find various partially-completed projects.
+If you don't find something about it here, chances are
+it's a dead project. While I start projects with great enthusiasm, I have
+yet to find a consistent method for pruning ones that fail to take on a life of
+their own.
+
 ***
 ### Miscellaneous
 
