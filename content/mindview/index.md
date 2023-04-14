@@ -32,4 +32,4 @@ I enjoy the flexibility in thinking that I sometimes find in smaller organizatio
 
 If you think we can find a good fit
 between us that creates an easy, effortless, enjoyable experience and meets
-both your needs and mine, I'm happy to <a href="javascript:location='mailto:\u0042\u0072\u0075\u0063\u0065\u0054\u0045\u0063\u006b\u0065\u006c\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0">discuss possibilities.</a>
+both your needs and mine, I'm happy to <a href='m&#97;i&#108;to&#58;B&#37;72uc&#37;&#54;&#53;TEckel&#64;&#103;%6Da&#105;l%2Ecom'>&#66;r&#117;c&#101;TEckel&#64;&#103;m&#97;i&#108;&#46;com</a>discuss possibilities.</a>
