@@ -22,11 +22,11 @@ Learning can feel vulnerable, but the sooner you reveal that you don't know some
 Although I've written books on numerous languages, Python---which I've used since the mid-90s---is my preferred implementation language. 
 I have recently been delving into Rust, which seems to be the ideal language for writing Python extensions.
 
-I consider distributed version control, testing, and build automation to be the foundation of a reliable development process. I believe that it's almost always worth automating things, primarly to reduce human error. Automation frees up minds to solve more complicated problems.
+I consider distributed version control, testing, and build automation to be the foundation of a reliable development process. I believe that it's almost always worth automating things, primarly to reduce human error. Automation frees minds to solve more complicated problems.
 
 My skills lie in teaching, coaching, and leading architecture and code reviews. I've also had extensive experience organizing open-spaces events.
 
-I am conversant in many specific areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management, and certainly others.
+I am conversant in specific areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management, and certainly others.
 
 I enjoy the flexibility in thinking that I sometimes find in smaller organizations.
 
