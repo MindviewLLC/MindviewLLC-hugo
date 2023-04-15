@@ -4,7 +4,7 @@ type: index
 weight: 10
 ---
 
-If you're in a hurry, the [Quick Links](/quicklinks) page might have what you're looking for.
+In a hurry? The [Quick Links](/quicklinks) page might have what you're looking for.
 
 Welcome. I'm Bruce Eckel and this is my company, MindView. I
 create books, seminars, self organizing events, and other learning experiences and experiments.
