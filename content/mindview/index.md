@@ -12,7 +12,7 @@ create books, seminars, self organizing events, and other learning experiences a
 ## Consulting
 
 I solve understanding issues around software development for teams who want to learn and improve.
-I develop skills in the context of your product by coaching your team through architecture, design, programming, and personal communication.
+I coach team skills in architecture, design, programming, and personal communication.
 Your benefit from my services is an essential part of my satisfaction, together with the interpersonal interaction around these activities.
 
 I love taking complex ideas and simplifying them using group learning experiences and Nonviolent Communication (NVC) tools. I have been taking NVC workshops for over 10 years. I foster mutual support during group reviews. 
@@ -22,9 +22,12 @@ Learning can feel vulnerable, but the sooner you reveal that you don't know some
 Although I've written books on numerous languages, Python---which I've used since the mid-90s---is my preferred implementation language. 
 I have been delving into Rust, which seems the ideal language for writing Python extensions.
 
-I consider distributed version control, testing, and build automation to be the foundation of a reliable development process. I believe that it's almost always worth automating things, primarly to reduce human error. Automation frees minds to solve more complicated problems.
+I consider distributed version control, testing, and build automation to be the foundation of a reliable development process. 
+I believe it's worth automating things, primarly to reduce human error. 
+Automation frees minds to solve more complicated problems.
 
-My skills lie in teaching, coaching, and leading architecture and code reviews. I've also had extensive experience organizing open-spaces events.
+My skills lie in teaching, coaching, and leading architecture and code reviews. 
+I've also had extensive experience organizing open-spaces events.
 
 I am conversant in specific areas where I do not consider myself expert enough to provide reliable advice: databases, web systems, operations, security, management, agile/scrum, product management, and certainly others.
 
