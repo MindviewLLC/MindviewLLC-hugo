@@ -17,7 +17,8 @@ Your benefit from my services is an essential part of my satisfaction, together 
 
 I love taking complex ideas and simplifying them using group learning experiences and Nonviolent Communication (NVC) tools. I have been taking NVC workshops for over 10 years. I foster mutual support during group reviews. 
 
-Learning can feel vulnerable, but the sooner you reveal that you don't know something, the sooner you can start understanding it. I want to improve everyone's ability to comfortably say "I don't know." 
+I want to improve everyone's ability to comfortably say "I don't know." 
+Learning can feel vulnerable, but the sooner you reveal that you don't know something, the sooner you can start understanding it.
 
 Although I've written books on numerous languages, Python---which I've used since the mid-90s---is my preferred implementation language. 
 I have been delving into Rust, which seems the ideal language for writing Python extensions.
