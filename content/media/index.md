@@ -5,6 +5,8 @@ weight: 50
 
 - (Ongoing) [Happy Path Programming Podcast](https://happypathprogramming.com)
 
+- April 2023 Pycon presentation [Rethinking Objects](https://youtu.be/2Ul6WlKPcgY)
+
 - October 2022 [Sii Poland Conference: Smarter Types with Records](https://youtu.be/ZzlnStXjoJo).
 
 - September 2022 [StrangeLoop Presentation: Polymorphism Unbound](https://youtu.be/ojffu0F_aQQ).
@@ -61,4 +63,3 @@ weight: 50
 - June 2001 [Thinking in Java Interview](https://www.javaworld.com/article/2076009/core-java/eckel-thinks-in-java.html)
 
 - Sept 2001 [InforIT Interview](https://www.informit.com/articles/article.aspx?p=23416)
-
