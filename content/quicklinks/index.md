@@ -27,9 +27,6 @@ target="_blank">Slides from Geecon 2019, Krakow, Poland</a>
 + <a href="http://www.WinterTechForum.com" target="_blank">
 The Winter Tech Forum</a>
 
-+ <a href="http://www.SoftwareArchitectureForum.com" target="_blank">
-The Software Architecture Forum</a>
-
 ***
 ### Blogs
 
