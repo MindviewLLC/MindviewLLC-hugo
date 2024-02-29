@@ -17,7 +17,7 @@ weight: 50
 
 - April 2022 Pycon presentation [Making Data Classes Work for You](https://www.youtube.com/watch?v=w77Kjs5dEko&ab_channel=PyConUS)
 
-- [Java Magazine Articles](https://blogs.oracle.com/javamagazine/search.html?contentType=Blog-Post&default=Bruce%20Eckel*)
+- [Java Magazine Articles](https://blogs.oracle.com/authors/bruce-eckel)
 
 - April 2022 [A Tour of the Modern Java Platform](https://www.youtube.com/watch?v=4RbYiTI5P_Q&ab_channel=ChariotSolutions) (Online presentation with James Ward)
 
