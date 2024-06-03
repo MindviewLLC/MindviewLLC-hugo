@@ -82,8 +82,9 @@ Thinking in C++ 2nd ed, Volume 2 Book (HTML) and Example Code</a>
 + <a href="https://gum.co/OIPR" target="_blank">
 Thinking in C++ 2nd ed, Volume 1 Annotated Solution Guide</a>
 
-+ <a href="https://archive.org/details/ThinkingInC" target="_blank">
-Thinking in C Multimedia Seminar</a> (Prepares beginners for C++). *This was created in Flash and no longer works in most browsers. If it ever gets updated the new link will be here.*
++ <a href="https://github.com/BruceEckel/ThinkingInC" target="_blank">
+Thinking in C Multimedia Seminar</a> (Prepares beginners for C++). A seminar introducing the C language, consisting of slides and audio lectures. Also includes exercises and solutions. *Updated in 2023 for
+modern web browsers*.
 
 ***
 ### Bibliography
