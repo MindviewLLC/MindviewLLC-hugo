@@ -13,7 +13,11 @@ Everything is in markdown so it's very easy to add/edit content. If you look
 at the "content" subdirectory you'll see how straightforward it is to add new
 pages.
 
-## To Build:
+## To Update:
+
+Simply upload the changed markdown files. No building necessary, it's all done on the server.
+
+## To Build Locally:
 
 1.  [Install the Hugo](https://hugodocs.info/getting-started/installing/#quick-install) static site generator.
 
