@@ -5,6 +5,8 @@ weight: 50
 
 - (Ongoing) [Happy Path Programming Podcast](https://happypathprogramming.com)
 
+- May 2024 PyCon Presentation [Functional Error Handling](https://youtu.be/Z3j-jWX7B4M?si=HINF5p6k64Bzez2L)
+
 - April 2023 Pycon presentation [Rethinking Objects](https://youtu.be/2Ul6WlKPcgY)
 
 - October 2022 [Sii Poland Conference: Smarter Types with Records](https://youtu.be/ZzlnStXjoJo).
