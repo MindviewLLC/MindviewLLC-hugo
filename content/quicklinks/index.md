@@ -30,10 +30,9 @@ The Winter Tech Forum</a>
 ***
 ### Blogs
 
-+ <a href="http://www.BruceEckel.com/" target="_blank">Blog</a>
++ <a href="http://BruceEckel.github.io/" target="_blank">BruceEckel.github.io</a>
 
-+ <a href="http://www.Reinventing-Business.com" target="_blank">
-Reinventing Business</a> (Blog on alternative organizational structures)
++ <a href="http://www.BruceEckel.com/" target="_blank">www.BruceEckel.com (older)</a>
 
 + 2005-2014 [Artima Blog](https://www.artima.com/weblogs/index.jsp?blogger=beckel)
 
