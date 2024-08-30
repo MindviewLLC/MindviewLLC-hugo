@@ -17,8 +17,7 @@ their own.
 ***
 ### Miscellaneous
 
-+ <a href="https://docs.google.com/presentation/d/13yWROkwsd95Y_Xcwr-lFymClaEOgj64hq8YJZYPFO-w/edit?usp=sharing"
-target="_blank">Slides from Geecon 2019, Krakow, Poland</a>
++ May 2024 PyCon Presentation [Functional Error Handling](https://youtu.be/Z3j-jWX7B4M?si=HINF5p6k64Bzez2L)
 
 
 ***

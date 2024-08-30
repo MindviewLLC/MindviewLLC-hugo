@@ -27,6 +27,9 @@ weight: 50
 
 - February 2021 [Interview on Frontmatter Podcast](https://www.stitcher.com/show/frontmatter/episode/bruce-eckel-co-author-of-atomic-kotlin-81332101)
 
+- <a href="https://docs.google.com/presentation/d/13yWROkwsd95Y_Xcwr-lFymClaEOgj64hq8YJZYPFO-w/edit?usp=sharing"
+target="_blank">Slides from Geecon 2019, Krakow, Poland</a>
+
 - January 2018 [Panel Discussion](https://talkpython.fm/episodes/show/148/python-book-authors-panel-discussion)
 
 - November 2017 VJug24 Keynote: [Overview of Kotlin for Java Programmers](https://virtualjug.com/vjug24-keynote-an-overview-of-kotlin-for-java-programmers/)
