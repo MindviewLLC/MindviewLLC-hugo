@@ -49,6 +49,8 @@ target="_blank">Slides from Geecon 2019, Krakow, Poland</a>
 
 - 2013 [Interview with James Ward](https://www.lightbend.com/blog/bruce-eckel-on-learning-scala-and-tech-conferences)
 
+- May 2012 [Reinventing Business Presentation at Heroku](https://vimeo.com/herokai/review/40551380/dbcaffb1e2)
+
 - October 2011 [Presentation at CERN, Geneva: The Power of Hybridization](https://cds.cern.ch/record/1390426)
 
 - May 2009 [Python, Java, Flex, and RIAs](https://www.infoq.com/news/2009/05/bruce-eckel)
