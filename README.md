@@ -1,5 +1,7 @@
 # The MindView LLC Hugo Static Site Source
 
+- [ ] Add social media links to sidebar of all pages
+
 - [ ] Page: Books
 
 - [ ] Page: Past projects and products, with images of all book and other projects.
