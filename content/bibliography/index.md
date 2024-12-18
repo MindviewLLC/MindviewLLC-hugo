@@ -5,6 +5,8 @@ weight: 60
 
 ## Books
 
+- *[Effect Oriented Programming](https://effectorientedprogramming.com/)*,  2024, with Bill Frasure and James Ward.
+
 - *[Atomic Kotlin](https://www.AtomicKotlin.com)*, Mindview 2021. eBook ISBN 978-0-9818725-4-4, Print Book ISBN 978-0-9818725-5-1.
 
 - *[On Java 8](https://www.OnJava8.com)*, Mindview 2017, updated 2021. ISBN 978-0-9818725-2-0.
@@ -18,11 +20,9 @@ weight: 60
   4th Edition, 2006. Prentice-Hall 1998, ISBN 0-13-187248-6.
   Available for free download.
 
-- *Thinking in C++, Volume One: Introduction to Standard C++*, Prentice-Hall
-  1995; 2nd edition 2000, ISBN 978-0-13-979809-2. Available for free download.
-
-- *Thinking in C++, Volume Two: Practical Programming*, with Chuck Allison.
-  Prentice-Hall PTR, 2003. ISBN 0-13-035313-2. Available for free download.
+- *Thinking in C++*
+  - *Volume One: Introduction to Standard C++*, Prentice-Hall 1995; 2nd edition 2000, ISBN 978-0-13-979809-2. Available for free download.
+  - *Volume Two: Practical Programming*, with Chuck Allison. Prentice-Hall PTR, 2003. ISBN 0-13-035313-2. Available for free download.
 
 - *C++ Inside & Out*, Osborne/McGraw-Hill 1993, ISBN 978-0-07-881809-7.
 
