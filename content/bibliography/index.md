@@ -20,6 +20,9 @@ weight: 60
   4th Edition, 2006. Prentice-Hall 1998, ISBN 0-13-187248-6.
   Available for free download.
 
+- (With Chuck Allison) <a href="https://github.com/BruceEckel/ThinkingInC" target="_blank">Thinking in C Multimedia Seminar</a> (Prepares beginners for C++). A seminar introducing the C language, consisting of slides and audio lectures. Also includes exercises and solutions. *Updated in 2023 for
+modern web browsers*.
+
 - *Thinking in C++*
   - *Volume One: Introduction to Standard C++*, Prentice-Hall 1995; 2nd edition 2000, ISBN 978-0-13-979809-2. Available for free download.
   - *Volume Two: Practical Programming*, with Chuck Allison. Prentice-Hall PTR, 2003. ISBN 0-13-035313-2. Available for free download.
