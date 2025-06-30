@@ -9,25 +9,12 @@ the [Happy Path Programming](http://happypathprogramming.com/) podcast.
 
 ## Short Bio
 
-Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published 11
-books (see [Bibliography](https://www.mindviewllc.com/bibliography/)), numerous
-blog posts, over 150 articles, and has given hundreds of presentations
-throughout the world. With James Ward, he creates the [Happy Path
-Programming](http://happypathprogramming.com/) podcast.
-He was a founding member of the ANSI/ISO C++ committee and
-was for many years the chair of both the C++ and Java tracks at the Software
-Development Conference. He cofounded the
-JavaPosse Roundup Conference (now the
-[Winter Tech Forum](http://www.WinterTechForum.com)) and created
-[Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO. He
-periodically holds Developer Retreats and provides public and private training
-and consulting in programming languages and software design. His latest
-books are [Effect Oriented Programming](https://effectorientedprogramming.com/) and [Atomic Kotlin](https://www.atomickotlin.com/).
-He is currently working on a Python book.
+Bruce Eckel ([www.MindViewLLC.com](http://www.MindViewLLC.com)) has published 11 books (see [Bibliography](https://www.mindviewllc.com/bibliography/)), numerous blog posts, over 150 articles, and has given hundreds of presentations throughout the world. With James Ward, he creates the [Happy Path Programming](http://happypathprogramming.com/) podcast. He was a founding member of the ANSI/ISO C++ committee and
+was for many years the chair of both the C++ and Java tracks at the Software Development Conference. He cofounded the JavaPosse Roundup Conference (now the [Winter Tech Forum](http://www.WinterTechForum.com)) and created [Evolve Coworking](http://www.EvolveWork.co) in Crested Butte, CO. He periodically holds Developer Retreats and provides public and private training and consulting in programming languages and software design. His latest books are [Effect Oriented Programming](https://effectorientedprogramming.com/) and [Atomic Kotlin](https://www.atomickotlin.com/). He is currently working on a Python book, [Thinking in Types](https://thinkingintypes.com/).
 
 ## Alternate Short Bio (Text Only)
 
-Bruce Eckel (<www.MindViewLLC.com>) is the author of Thinking in C++, Thinking in Java, Atomic Scala, On Java 8, Atomic Kotlin, and other books. He's written numerous blog posts (<www.BruceEckel.com>), over 150 magazine articles, and has given hundreds of presentations throughout the world. He was a founding member of the ANSI/ISO C++ committee and was for many years the chair of both the C++ and Java tracks at the Software Development Conference. With James Ward, he creates the Happy Path Programming podcast. He cofounded the JavaPosse Roundup Conference (now the Winter Tech Forum) and created Evolve Coworking in Crested Butte, CO. He periodically holds Developer Retreats and provides public and private training and consulting in programming languages and software design.
+Bruce Eckel (www.MindViewLLC.com) is the author of Thinking in C++, Thinking in Java, Atomic Scala, On Java 8, Atomic Kotlin, and other books. He's written numerous blog posts (www.BruceEckel.com), over 150 magazine articles, and has given hundreds of presentations throughout the world. He was a founding member of the ANSI/ISO C++ committee and was for many years the chair of both the C++ and Java tracks at the Software Development Conference. With James Ward, he creates the Happy Path Programming podcast. He cofounded the JavaPosse Roundup Conference (now the Winter Tech Forum) and created Evolve Coworking in Crested Butte, CO. He periodically holds Developer Retreats and provides public and private training and consulting in programming languages and software design.
 
 ## Long Bio
 
